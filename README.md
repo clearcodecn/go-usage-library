@@ -65,7 +65,10 @@
 | go-dockerclient| [https://github.com/fsouza/go-dockerclient](https://github.com/fsouza/go-dockerclient)|
 
 
-
+## 类库
+| Name | URL | 
+| -----|:------:|
+|go-jwt| [https://github.com/dgrijalva/jwt-go](https://github.com/dgrijalva/jwt-go) |
 
 
 
