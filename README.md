@@ -5,6 +5,7 @@
 |--------|:--------:|
 | kit | [https://github.com/go-kit/kit](https://github.com/go-kit/kit)|
 | go-micro| [https://github.com/micro/go-micro](https://github.com/micro/go-micro)|
+| Jaeger分布式调用栈追踪工具 | [https://github.com/jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)|
 
 ## WEB框架 
 
