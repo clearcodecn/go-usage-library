@@ -79,7 +79,10 @@
 |leaf|[https://github.com/name5566/leaf](https://github.com/name5566/leaf)|
 |leafserver|[https://github.com/name5566/leafserver](https://github.com/name5566/leafserver)|
 
-
+## 分布式常用库
+| Name | URL | 
+| ------|:------:|
+| ksuid 生成唯一id工具 | [https://github.com/segmentio/ksuid](https://github.com/segmentio/ksuid)|
 
 
 
