@@ -6,6 +6,8 @@
 | kit | [https://github.com/go-kit/kit](https://github.com/go-kit/kit)|
 | go-micro| [https://github.com/micro/go-micro](https://github.com/micro/go-micro)|
 | Jaeger分布式调用栈追踪工具 | [https://github.com/jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)|
+| zookeeper客户端 | [https://github.com/samuel/go-zookeeper](https://github.com/samuel/go-zookeeper)|
+| zookeeper客户端(基于上面的封装) | [https://github.com/funkygao/go-zookeeper](https://github.com/funkygao/go-zookeeper)|
 
 ## WEB框架 
 
@@ -22,6 +24,7 @@
 | ------|:------:|
 | gorm | [https://github.com/jinzhu/gorm](https://github.com/jinzhu/gorm) | 
 | mysql驱动 | [github.com/go-sql-driver/mysql](github.com/go-sql-driver/mysql) | 
+| xorm | [https://github.com/go-xorm/xorm](github.com/go-xorm/xorm) | 
 
 ## NoSql 
 
@@ -47,6 +50,7 @@
 | Name | URL |
 |-----|:-----:|
 | cobra |[https://github.com/spf13/cobra](https://github.com/spf13/cobra)|
+| cli |https://github.com/urfave/cli](https://github.com/urfave/cli)|
 
 ## 日志 
 
@@ -54,8 +58,9 @@
 |-----|:-----:|
 | log4go| [https://github.com/alecthomas/log4go](https://github.com/alecthomas/log4go)|
 | logrus |[https://github.com/Sirupsen/logrus](https://github.com/Sirupsen/logrus)|
+| tail |[https://github.com/hpcloud/tail](https://github.com/hpcloud/tail)|
 
-## 测试 
+## 测试  
 | Name | URL | 
 | -----|:-----:|
 | goconvey |[https://github.com/smartystreets/goconvey](https://github.com/smartystreets/goconvey)|
