@@ -23,8 +23,8 @@
 | Name | URL | 
 | ------|:------:|
 | gorm | [https://github.com/jinzhu/gorm](https://github.com/jinzhu/gorm) | 
-| mysql驱动 | [github.com/go-sql-driver/mysql](github.com/go-sql-driver/mysql) | 
-| xorm | [https://github.com/go-xorm/xorm](github.com/go-xorm/xorm) | 
+| mysql驱动 | [github.com/go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) | 
+| xorm | [https://github.com/go-xorm/xorm](https://github.com/go-xorm/xorm) | 
 
 ## NoSql 
 
@@ -84,10 +84,11 @@
 |leaf|[https://github.com/name5566/leaf](https://github.com/name5566/leaf)|
 |leafserver|[https://github.com/name5566/leafserver](https://github.com/name5566/leafserver)|
 
-## 分布式常用库
+## 分布式常用库 https://github.com/sony/sonyflake
 | Name | URL | 
 | ------|:------:|
 | ksuid 生成唯一id工具 | [https://github.com/segmentio/ksuid](https://github.com/segmentio/ksuid)|
+| 分布式id生成工具 | [https://github.com/sony/sonyflake](https://github.com/sony/sonyflake)|
 
 
 
