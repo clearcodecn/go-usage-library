@@ -8,6 +8,9 @@
 | Jaeger分布式调用栈追踪工具 | [https://github.com/jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)|
 | zookeeper客户端 | [https://github.com/samuel/go-zookeeper](https://github.com/samuel/go-zookeeper)|
 | zookeeper客户端(基于上面的封装) | [https://github.com/funkygao/go-zookeeper](https://github.com/funkygao/go-zookeeper)|
+| grpc-gateway | github.com/grpc-ecosystem/grpc-gateway | 
+| 协程池 | github.com/panjf2000/ants | 
+| kafka | github.com/Shopify/sarama |
 
 ## WEB框架 
 
@@ -31,7 +34,9 @@
 | Name | URL |
 |-----|:-----:|
 | mgo mongodb库 | [https://github.com/go-mgo/mgo](https://github.com/go-mgo/mgo)|
+| mongo-driver mongodb 官方驱动 | [https://github.com/mongodb/mongo-go-driver](go.mongodb.org/mongo-driver) |
 | redigo redis库 | [https://github.com/garyburd/redigo](https://github.com/garyburd/redigo)|
+
 
 ## 配置工具 
 | Name | URL | 
